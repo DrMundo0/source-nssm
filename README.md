@@ -1,3 +1,5 @@
+* upstream: https://github.com/fightroad/nssm
+
 # NSSM (Non-Sucking Service Manager)
 
 NSSM 是一个将任意可执行程序作为 Windows 服务运行并进行管理的工具，提供安装/编辑/移除、启动/停止/重启、I/O 重定向、环境变量与工作目录等能力。
